@@ -1,4 +1,4 @@
- Hi, I’m Daniel Kletinich, An ispiring an aspiring software developer.
+ Hi, I’m Daniel Kletinich, an aspiring software developer.
  
 
 <!---
