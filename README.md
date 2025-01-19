@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniel Kletinich</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
+- 🔭 I’m currently working on [ChatApplication](https://github.com/kletinich/ChatApplication)
+
+- 📫 How to reach me **kletinich@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/daniel-kletinich-06240a80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel kletinich" height="30" width="40" /></a>
