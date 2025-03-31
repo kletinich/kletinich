@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Kletinich</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on [ChatApplication](https://github.com/kletinich/ChatApplication)
+- 🔭 I’m currently working on [Personal-finacnce-app](https://github.com/kletinich/Personal-Finance-Management-App)
 
 - 📫 How to reach me **kletinich@gmail.com**
 
